@@ -89,6 +89,7 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Core\MySqlTest.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Controllers\HomeControllerTest.cs" />
   </ItemGroup>
@@ -99,6 +100,10 @@
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
+    <ProjectReference Include="..\CSCBlog.Core\CSCBlog.Core.csproj">
+      <Project>{cd5fa3a2-2aca-490b-88ee-258d1fce6681}</Project>
+      <Name>CSCBlog.Core</Name>
+    </ProjectReference>
     <ProjectReference Include="..\CSCBlog\CSCBlog.csproj">
       <Project>{42CF7885-2707-47B6-93FC-C6F30D83DD60}</Project>
       <Name>CSCBlog</Name>

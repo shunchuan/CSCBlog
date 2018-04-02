@@ -1,0 +1,11 @@
+I:\ProgramLearning\C#Program\.NET MVC\CSCBlog\CSCBlog.Core\obj\Debug\CSCBlog.Core.csprojResolveAssemblyReference.cache
+I:\ProgramLearning\C#Program\.NET MVC\CSCBlog\CSCBlog.Core\obj\Debug\CSCBlog.Core.csproj.CoreCompileInputs.cache
+I:\ProgramLearning\C#Program\.NET MVC\CSCBlog\CSCBlog.Core\bin\Debug\CSCBlog.Core.dll.config
+I:\ProgramLearning\C#Program\.NET MVC\CSCBlog\CSCBlog.Core\bin\Debug\CSCBlog.Core.dll
+I:\ProgramLearning\C#Program\.NET MVC\CSCBlog\CSCBlog.Core\bin\Debug\CSCBlog.Core.pdb
+I:\ProgramLearning\C#Program\.NET MVC\CSCBlog\CSCBlog.Core\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+I:\ProgramLearning\C#Program\.NET MVC\CSCBlog\CSCBlog.Core\bin\Debug\MySql.Data.dll
+I:\ProgramLearning\C#Program\.NET MVC\CSCBlog\CSCBlog.Core\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+I:\ProgramLearning\C#Program\.NET MVC\CSCBlog\CSCBlog.Core\bin\Debug\MySql.Data.xml
+I:\ProgramLearning\C#Program\.NET MVC\CSCBlog\CSCBlog.Core\obj\Debug\CSCBlog.Core.dll
+I:\ProgramLearning\C#Program\.NET MVC\CSCBlog\CSCBlog.Core\obj\Debug\CSCBlog.Core.pdb
